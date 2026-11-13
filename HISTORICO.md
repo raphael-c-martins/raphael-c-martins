@@ -2,6 +2,9 @@
 
 > **Diretriz de Preservação:** Este repositório não utiliza banco de dados nem logs persistentes de aplicação. Em futuras manutenções, nunca apagar a branch `output` manualmente sem regenerar os SVGs pela Action e nunca commitar tokens ou credenciais.
 
+## 13/11/2026 — Remoção de OpenCV e Ubuntu da grade
+- Removidos `OpenCV` e `Ubuntu` (mantendo apenas `Linux` de forma abrangente), resultando em 23 ícones com `perline=8`.
+
 ## 13/11/2026 — Remoção de tecnologias fora da dominância principal
 - Removidos da grade `.NET`, `Vite`, `PostgreSQL`, `Debian` e `Nginx` por solicitação do usuário, mantendo `SQLite` e ajustando a exibição para 25 ícones (`perline=9`).
 

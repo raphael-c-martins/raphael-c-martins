@@ -20,9 +20,9 @@ Automação de sistemas, servidores Windows e Linux, virtualização em Proxmox 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Csqlite%2Csupabase%2Copencv%2Clinux%2Cubuntu%2Cwindows%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Csqlite%2Csupabase%2Copencv%2Clinux%2Cubuntu%2Cwindows%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=light&perline=9" />
-    <img alt="Stack de tecnologias: Python, PowerShell, Bash, C#, TypeScript, JavaScript, HTML5, CSS3, React, Next.js, Tailwind CSS, FastAPI, Node.js, Prisma, SQLite, Supabase, OpenCV, Linux, Ubuntu, Windows, Docker, Git, GitHub, GitHub Actions e VS Code" src="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Csqlite%2Csupabase%2Copencv%2Clinux%2Cubuntu%2Cwindows%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Csqlite%2Csupabase%2Clinux%2Cwindows%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Csqlite%2Csupabase%2Clinux%2Cwindows%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=light&perline=8" />
+    <img alt="Stack de tecnologias: Python, PowerShell, Bash, C#, TypeScript, JavaScript, HTML5, CSS3, React, Next.js, Tailwind CSS, FastAPI, Node.js, Prisma, SQLite, Supabase, Linux, Windows, Docker, Git, GitHub, GitHub Actions e VS Code" src="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Csqlite%2Csupabase%2Clinux%2Cwindows%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=dark&perline=8" />
   </picture>
 
   <br><br>
