@@ -4,7 +4,7 @@
 
 **Estudante de Ciência da Computação • Cibersegurança Defensiva, Infraestrutura & Full-Stack**
 
-Automação de sistemas, servidores Windows e Linux, virtualização em Proxmox VE, desenvolvimento web com Python/FastAPI e TypeScript/React, e testes E2E com Playwright.
+Automação de sistemas, servidores Windows e Linux, virtualização em Proxmox VE e Hyper-V, desenvolvimento web com Python/FastAPI e TypeScript/React, e testes E2E com Playwright.
 
 <br>
 
