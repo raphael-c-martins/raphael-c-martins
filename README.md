@@ -20,17 +20,19 @@ Automação de sistemas, servidores Windows e Linux, virtualização em Proxmox 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,powershell,cs,ts,js,react,nextjs,fastapi,tailwind,postgres,supabase,docker,linux,windows,git,github&theme=dark&perline=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,powershell,cs,ts,js,react,nextjs,fastapi,tailwind,postgres,supabase,docker,linux,windows,git,github&theme=light&perline=8" />
-    <img alt="Stack de tecnologias: Python, PowerShell, C#, TypeScript, JavaScript, React, Next.js, FastAPI, Tailwind CSS, PostgreSQL, Supabase, Docker, Linux, Windows, Git e GitHub" src="https://skillicons.dev/icons?i=py,powershell,cs,ts,js,react,nextjs,fastapi,tailwind,postgres,supabase,docker,linux,windows,git,github&theme=dark&perline=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cdotnet%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Cpostgres%2Csqlite%2Csupabase%2Copencv%2Clinux%2Cubuntu%2Cdebian%2Cwindows%2Cdocker%2Cnginx%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=dark&perline=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cdotnet%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Cpostgres%2Csqlite%2Csupabase%2Copencv%2Clinux%2Cubuntu%2Cdebian%2Cwindows%2Cdocker%2Cnginx%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=light&perline=10" />
+    <img alt="Stack de tecnologias: Python, PowerShell, Bash, C#, .NET, TypeScript, JavaScript, HTML5, CSS3, React, Next.js, Vite, Tailwind CSS, FastAPI, Node.js, Prisma, PostgreSQL, SQLite, Supabase, OpenCV, Linux, Ubuntu, Debian, Windows, Docker, Nginx, Git, GitHub, GitHub Actions e VS Code" src="https://skillicons.dev/icons?i=py%2Cpowershell%2Cbash%2Ccs%2Cdotnet%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Cfastapi%2Cnodejs%2Cprisma%2Cpostgres%2Csqlite%2Csupabase%2Copencv%2Clinux%2Cubuntu%2Cdebian%2Cwindows%2Cdocker%2Cnginx%2Cgit%2Cgithub%2Cgithubactions%2Cvscode&theme=dark&perline=10" />
   </picture>
 
   <br><br>
 
   ![Playwright E2E](https://img.shields.io/badge/Playwright_E2E-1E293B?style=flat-square)
   ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-1E293B?style=flat-square&logo=proxmox&logoColor=E57000)
+  ![Hyper-V](https://img.shields.io/badge/Hyper--V-1E293B?style=flat-square)
   ![Windows Server & AD](https://img.shields.io/badge/Windows_Server_%26_AD-1E293B?style=flat-square)
   ![Kaspersky EDR & Hardening](https://img.shields.io/badge/Kaspersky_EDR_%26_Hardening-1E293B?style=flat-square&logo=kaspersky&logoColor=00A88E)
+  ![CI/CD & Gitleaks](https://img.shields.io/badge/CI%2FCD_%26_Gitleaks-1E293B?style=flat-square&logo=githubactions&logoColor=white)
 </div>
 
 ---

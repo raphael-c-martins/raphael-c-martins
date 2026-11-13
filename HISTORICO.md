@@ -2,6 +2,10 @@
 
 > **Diretriz de Preservação:** Este repositório não utiliza banco de dados nem logs persistentes de aplicação. Em futuras manutenções, nunca apagar a branch `output` manualmente sem regenerar os SVGs pela Action e nunca commitar tokens ou credenciais.
 
+## 13/11/2026 — Correção do srcset da grade e ampliação das tecnologias
+- Corrigida a URL do `skillicons.dev` dentro de `<source srcset>` substituindo `,` por `%2C` (vírgulas sem codificação eram quebradas pelo parser HTML de `srcset`, exibindo apenas o primeiro ícone).
+- Expandida a grade para 30 ícones em 3 linhas (`Python`, `PowerShell`, `Bash`, `C#`, `.NET`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `React`, `Next.js`, `Vite`, `Tailwind`, `FastAPI`, `Node.js`, `Prisma`, `PostgreSQL`, `SQLite`, `Supabase`, `OpenCV`, `Linux`, `Ubuntu`, `Debian`, `Windows`, `Docker`, `Nginx`, `Git`, `GitHub`, `GitHub Actions`, `VS Code`) e adicionados badges de `Hyper-V` e `CI/CD & Gitleaks`.
+
 ## 13/11/2026 — Criação do README de Perfil e Automação da Cobrinha
 - Criado repositório especial `raphael-c-martins/raphael-c-martins` para exibição do README na página principal do perfil no GitHub.
 - Estruturado `README.md` em PT-BR com visual sóbrio e técnico:
