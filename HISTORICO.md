@@ -2,6 +2,9 @@
 
 > **Diretriz de Preservação:** Este repositório não utiliza banco de dados nem logs persistentes de aplicação. Em futuras manutenções, nunca apagar a branch `output` manualmente sem regenerar os SVGs pela Action e nunca commitar tokens ou credenciais.
 
+## 13/11/2026 — Correção da tag da Action do Pac-Man (`v5.3.2`)
+- Corrigida a referência `abozanona/pacman-contribution-graph@v5` para a tag exata `@v5.3.2` em `.github/workflows/snake.yml` (o repositório não publica tag flutuante `v5`).
+
 ## 13/11/2026 — Tabela de tecnologias com rótulos e gráfico Pac-Man
 - Substituída a grade compacta por tabela HTML 8×3 (24 itens com ícone e nome embaixo, estilo `rzashakeri`, incluindo `Playwright`).
 - Adicionada geração do gráfico animado estilo **Pac-Man** (`abozanona/pacman-contribution-graph@v5`) em `.github/workflows/snake.yml` mantendo também os SVGs da cobrinha na branch `output`.
