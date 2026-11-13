@@ -2,6 +2,10 @@
 
 > **Diretriz de Preservação:** Este repositório não utiliza banco de dados nem logs persistentes de aplicação. Em futuras manutenções, nunca apagar a branch `output` manualmente sem regenerar os SVGs pela Action e nunca commitar tokens ou credenciais.
 
+## 13/11/2026 — Tabela de tecnologias com rótulos e gráfico Pac-Man
+- Substituída a grade compacta por tabela HTML 8×3 (24 itens com ícone e nome embaixo, estilo `rzashakeri`, incluindo `Playwright`).
+- Adicionada geração do gráfico animado estilo **Pac-Man** (`abozanona/pacman-contribution-graph@v5`) em `.github/workflows/snake.yml` mantendo também os SVGs da cobrinha na branch `output`.
+
 ## 13/11/2026 — Remoção de OpenCV e Ubuntu da grade
 - Removidos `OpenCV` e `Ubuntu` (mantendo apenas `Linux` de forma abrangente), resultando em 23 ícones com `perline=8`.
 
